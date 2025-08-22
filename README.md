@@ -12,3 +12,5 @@ By the end of this course, students will be able to:
 
 **Week-01**
 Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
+
+https://colab.research.google.com/github/aslestia/ACS_2025/blob/main/ACS_week1.ipynb
