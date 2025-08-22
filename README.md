@@ -7,4 +7,5 @@ By the end of this course, students will be able to:
 3. Select and validate appropriate models for prediction and inference.
 4. Interpret model outputs in a domain-specific context.
 5. Deliver a complete, reproducible data science project from start to finish.
+
 **Belajar sama-sama ya...**
