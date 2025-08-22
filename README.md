@@ -9,3 +9,6 @@ By the end of this course, students will be able to:
 5. Deliver a complete, reproducible data science project from start to finish.
 
 **Belajar sama-sama ya...**
+
+**Week-01**
+Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
