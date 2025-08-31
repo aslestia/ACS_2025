@@ -8,9 +8,21 @@ By the end of this course, students will be able to:
 4. Interpret model outputs in a domain-specific context.
 5. Deliver a complete, reproducible data science project from start to finish.
 
+**Topics :**
+Week-01 : Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
+Week-02 : Dynamic Programming & MDPs
+Week-03 : Monte Carlo & TD Learning (SARSA, Q-learning)
+Week-04 : Policy Gradient & Actor–Critic
+Week-05 : Introduction to Risk Measures (coherent risk axioms, variance vs CVaR vs EVaR)
+Week-06 : Risk-Sensitive RL Foundations (entropic risk, distributional RL)
+Week-07 : CVaR in RL (Rockafellar–Uryasev)
+Week-08 : EVaR & Advanced Risk Measures
+Week-09 : Constrained RL & Safe Learning (CMDPs, Lagrangian methods)
+Week-10 : Applications in Finance & Operations
+Week-11 : Multi-Agent Risk-Sensitive RL
+Week-12 : Research Frontiers (robust RL, distributional + coherent risk, deep RL)
+Week-13 : Project Workshop
+Week-14 : Final Presentations
+
 **Belajar sama-sama ya...**
 
-**Week-01**
-Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
-
-https://colab.research.google.com/github/aslestia/ACS_2025/blob/main/ACS_week1.ipynb
