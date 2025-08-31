@@ -9,20 +9,20 @@ By the end of this course, students will be able to:
 5. Deliver a complete, reproducible data science project from start to finish.
 
 **Topics :**
-Week-01 : Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
-Week-02 : Dynamic Programming & MDPs
-Week-03 : Monte Carlo & TD Learning (SARSA, Q-learning)
-Week-04 : Policy Gradient & Actor–Critic
-Week-05 : Introduction to Risk Measures (coherent risk axioms, variance vs CVaR vs EVaR)
-Week-06 : Risk-Sensitive RL Foundations (entropic risk, distributional RL)
-Week-07 : CVaR in RL (Rockafellar–Uryasev)
-Week-08 : EVaR & Advanced Risk Measures
-Week-09 : Constrained RL & Safe Learning (CMDPs, Lagrangian methods)
-Week-10 : Applications in Finance & Operations
-Week-11 : Multi-Agent Risk-Sensitive RL
-Week-12 : Research Frontiers (robust RL, distributional + coherent risk, deep RL)
-Week-13 : Project Workshop
-Week-14 : Final Presentations
+1. Week-01 : Introduction to RL & Risk (agents, MDPs, rewards, exploration vs exploitation)
+2. Week-02 : Dynamic Programming & MDPs
+3. Week-03 : Monte Carlo & TD Learning (SARSA, Q-learning)
+4. Week-04 : Policy Gradient & Actor–Critic
+5. Week-05 : Introduction to Risk Measures (coherent risk axioms, variance vs CVaR vs EVaR)
+6. Week-06 : Risk-Sensitive RL Foundations (entropic risk, distributional RL)
+7. Week-07 : CVaR in RL (Rockafellar–Uryasev)
+8. Week-08 : EVaR & Advanced Risk Measures
+9. Week-09 : Constrained RL & Safe Learning (CMDPs, Lagrangian methods)
+10. Week-10 : Applications in Finance & Operations
+11. Week-11 : Multi-Agent Risk-Sensitive RL
+12. Week-12 : Research Frontiers (robust RL, distributional + coherent risk, deep RL)
+13. Week-13 : Project Workshop
+14. Week-14 : Final Presentations
 
 **Belajar sama-sama ya...**
 
